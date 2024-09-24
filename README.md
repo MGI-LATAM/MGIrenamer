@@ -20,11 +20,10 @@ usage: mgirenamer.py [-h] source_directory destination_directory flowcell lane
 Rename files in a directory
 
 positional arguments:
-  source_directory      Directory with the original files
-  destination_directory
-                        Destination directory for renamed files
-  flowcell              Flowcell ID
-  lane                  Lane ID, e.g., L01
+  source_directory        Directory with the original files
+  destination_directory   Destination directory for renamed files
+  flowcell                Flowcell ID
+  lane                    Lane ID, e.g., L01
 
 options:
   -h, --help            show this help message and exit
