@@ -32,7 +32,7 @@ options:
 #### Usage
 
 ```bash
-python mgirenamer.py diretorio_origem diretorio_destino flowcell lane 
+python mgirenamer.py source_directory destination_directory flowcell lane 
 ```
 
 - All libraries required in this script are already installed on the DNBSEQ sequencers, so they do not need to be installed.
